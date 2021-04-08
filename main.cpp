@@ -166,7 +166,6 @@ int main()
                 cout<<"### ESTE PROGRAMA CALCULA EL m.cm ENTRE 1 Y EL NUMERO INGRESADO ###"<<endl;
                 cout <<"Ingrese un numero: "<<endl;
                 cin>>limit;
-                bool es=true;
                 int array_numeros[limit]={};
                 for(int i=0;i<limit;i++){
                     array_numeros[i]=(i+1);
